@@ -1,0 +1,5 @@
+# Las dependencias principales de Node.js están en package.json
+express
+mysql2
+dotenv
+cors
