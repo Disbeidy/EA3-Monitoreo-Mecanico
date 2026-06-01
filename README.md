@@ -18,7 +18,7 @@ Este proyecto consta de dos partes:
 3. Crea la tabla `sensores` con la siguiente estructura y tipos de datos:
    - `id` (INT, Auto Incremental, Primary Key)
    - `nombre` (VARCHAR)
-   - `tipo` (ENUM o VARCHAR) -> *Ej. 'temperatura', 'presion', 'vibracion', etc.*
+   - `tipo` (ENUM o VARCHAR) -> 'temperatura', 'presion', 'vibracion'.
    - `valor` (FLOAT/DECIMAL)
    - `unidad` (VARCHAR)
    - `ubicacion` (VARCHAR)
@@ -103,4 +103,7 @@ Ubicación: Carpeta `/dashboard`.
 - Opción de Filtrado dinámico a través de peticiones HTTP en tiempo real al backend.
 
 ---
-**Nota para la Entrega:** Las carpetas `node_modules` no han sido incluidas ni deben entregarse al profesor. Para compilar el proyecto en otra computadora, el docente solo necesita ejecutar `npm install` en ambas carpetas.
+**Integrantes:**
+
+Disbeidy Anzueta Gongora 
+Daniela Anzueta Gongora
