@@ -105,5 +105,4 @@ Ubicación: Carpeta `/dashboard`.
 ---
 **Integrantes:**
 
-Disbeidy Anzueta Gongora 
-Daniela Anzueta Gongora
+Disbeidy Anzueta Gongora y Daniela Anzueta Gongora
